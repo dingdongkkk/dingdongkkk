@@ -4,8 +4,7 @@
 
 <br/>
 
-<!-- Cowboy Bebop / coding anime GIF -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380px" alt="anime coding" style="border-radius: 12px;"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRsZWxvZ3h3cDNtOHZjNWh6Y3QycWRyOWN4ZWs4NW56NHBvdGsxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uSoDr54W9M3uSBiTST/giphy.gif" width="380px"/>
 
 <br/>
 
@@ -17,20 +16,39 @@
 
 <div align="center">
 
-## ✦ about me ✦
+## ✦ player profile ✦
 
 </div>
 
-```python
-anubhav = {
-    "skills":    ["Frontend 💻", "Python 🐍", "C ⚙️"],
-    "learning":  ["Backend 🔧", "System Design 🏗️"],
-    "interests": ["Robotics 🤖", "Automation ⚡", "AI / ML 🧬"],
-    "loves":     ["Dev Projects 🛠️", "Vibe Coding ✨"],
-    "status":    "always building something cool 🚀",
-    "fun_fact":  "i debug in my dreams 💤"
-}
+<div align="center">
+
 ```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   ⚔️  PLAYER  : anubhav                              ║
+║   🏅  CLASS   : Full-Stack Aspirant                  ║
+║   🌍  REGION  : India                                ║
+║                                                      ║
+║   ── MASTERED ──────────────────────────────────     ║
+║   🎨  Frontend          ████████████  MAX            ║
+║   🐍  Python            ████████████  MAX            ║
+║   ⚙️  C                 ████████████  MAX            ║
+║                                                      ║
+║   ── LEVELING UP ───────────────────────────────     ║
+║   🔧  Backend           ██████░░░░░░  LVL 6          ║
+║   🏗️  System Design     ████░░░░░░░░  LVL 4          ║
+║                                                      ║
+║   ── SIDE QUESTS ───────────────────────────────     ║
+║   🤖  Robotics          [ ACTIVE ]                   ║
+║   ⚡  Automation        [ ACTIVE ]                   ║
+║   🧬  AI / ML           [ ACTIVE ]                   ║
+║   ✨  Vibe Coding        [ ALWAYS ON ]               ║
+║                                                      ║
+║   STATUS : always building something cool 🚀         ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -127,7 +145,6 @@ anubhav = {
 </td>
 <td width="50%" align="center">
 
-<!-- Anime side character working / Night vibes -->
 <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="200px"/>
 
 </td>
@@ -138,7 +155,6 @@ anubhav = {
 
 <div align="center">
 
-<!-- Anime wave goodbye GIF -->
 <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="120px"/>
 
 <br/>
