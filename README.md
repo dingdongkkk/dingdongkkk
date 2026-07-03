@@ -97,12 +97,12 @@ anubhav = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=onlyanubhav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyanubhav&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dingdongkkk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dingdongkkk&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=onlyanubhav&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=dingdongkkk&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -121,13 +121,13 @@ anubhav = {
 
 ### let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onlyanubhav)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onlyanubhav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dingdongkkk)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dingdongkkk)
 
 <br/>
 
 *made with ❤️ and a lot of late nights*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=onlyanubhav&color=6C63FF&style=flat-square&label=profile+views)
+![Visitor Count](https://komarev.com/ghpvc/?username=dingdongkkk&color=6C63FF&style=flat-square&label=profile+views)
 
 </div>
