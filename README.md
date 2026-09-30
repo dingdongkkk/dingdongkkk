@@ -6,7 +6,7 @@
 
 Bengaluru, India · CSE @ BMS College of Engineering
 
-[![Live project](https://img.shields.io/badge/live_project-flowshield--app.vercel.app-2fc4a6?style=for-the-badge)](https://flowshield-app.vercel.app)
+[![Live project](https://img.shields.io/badge/live_project-jansetu--grievance.vercel.app-2fc4a6?style=for-the-badge)](https://jansetu-grievance.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhav-kumar-066b29424/)
 [![Email](https://img.shields.io/badge/Email-myacc5010@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myacc5010@gmail.com)
 
@@ -52,23 +52,18 @@ Bengaluru, India · CSE @ BMS College of Engineering
 <tr>
 <td width="50%" valign="top">
 
-### 🌊 [flowshield](https://github.com/dingdongkkk/flowshield) · [▶ live](https://flowshield-app.vercel.app)
+### 🏛️ [jansetu](https://github.com/dingdongkkk/CPPGRAMS) · [▶ live](https://jansetu-grievance.vercel.app)
 
-**Flood simulation and early warning for Bengaluru.**
-315 cells of real terrain, the city's real drains,
-and a neural network I wrote by hand.
+**Civic grievance platform.** Residents report local
+issues and follow what happens to them.
 
-`React 19` `TypeScript` `MapLibre GL` `Web Workers`
+`TypeScript` `Cloudflare D1` `Drizzle` `edge`
 
-- Mass-conserving simulation engine in dependency-free
-  TypeScript — a 3h storm solves in ~0.5s, in a Worker
-  so the UI never stalls
-- **MLP from scratch** — backprop + Adam, no ML library —
-  trained on 4,000 of my own engine runs, R² 0.995
-  held out, scores ~600 response plans instantly
-- 3D map: depth playback, baseline vs response diff,
-  warning lead times, buildings exposed
-- **21 analytical checks**, water balance to 1e-6 m³
+- Runs at the edge on Cloudflare — no server to babysit
+- Typed schema and migrations with Drizzle over D1
+- Grievance intake, status tracking and admin review
+- Built to stay cheap: serverless database, static
+  front end, zero idle cost
 
 </td>
 <td width="50%" valign="top">
@@ -165,7 +160,6 @@ and renders a 3m46s film explaining why.
 <br/>
 
 **also worth a look** —
-[jansetu](https://github.com/dingdongkkk/CPPGRAMS) civic grievance platform ([live](https://jansetu-grievance.vercel.app)) ·
 [nyayasaar](https://github.com/dingdongkkk/NyayaSaar) court judgments in plain English & Hindi ·
 [aftersun](https://github.com/dingdongkkk/aftersun) mood & weather aware companion ·
 [protocol leaderboard](https://github.com/dingdongkkk/protocol-leaderboard-frontend) ([live](https://protocol-leaderboard-frontend.vercel.app)) ·
