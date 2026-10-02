@@ -50,6 +50,23 @@ Bengaluru, India · CSE @ BMS College of Engineering
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🌊 [flowshield](https://github.com/dingdongkkk/flowshield) · [▶ live](https://flowshield-app.vercel.app)
+
+**Flood simulation and early warning for Bengaluru.**
+315 cells of real terrain, the city's real drains, and a neural network I wrote by hand.
+
+`React 19` `TypeScript` `MapLibre GL` `Web Workers`
+
+- Mass-conserving simulation engine in dependency-free TypeScript — a 3h storm solves in ~0.5s, in a Worker so the UI never stalls
+- **MLP from scratch** — backprop + Adam, no ML library — trained on 4,000 of my own engine runs, R² 0.995 held out, scores ~600 response plans instantly
+- 3D map: depth playback, baseline vs response diff, warning lead times, buildings exposed
+- **21 analytical checks**, water balance to 1e-6 m³
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏛️ [jansetu](https://github.com/dingdongkkk/CPPGRAMS) · [▶ live](https://jansetu-grievance.vercel.app)
